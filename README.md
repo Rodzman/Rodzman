@@ -12,10 +12,12 @@
 </div>
 
 ### 👨‍💻 About Me :
-I'm a Full Stack Developer from Brazil 🇧🇷!
-- 🔭 I'm working as a Software Engineer developing features and solutions for other teams increasing their efficiency and quality of life.
-- 📖 I love to learn and to study new technologies. Currently learning `GOLANG`.
-- ⚡ In my free time, I play videogames and go to the beach 🏖️ with my family.
+I'm a Software Engineer from Brazil 🇧🇷!
+- 🔭 I'm working as a Tech Lead.
+- 🥸 Have more than 20 years of professional experience.
+- 🖥️ I've worked as a designer/web designer for about 10 years.
+- 📖 I love to learn and study new technologies. Currently learning `GOLANG`.
+- ⚡ In my free time, I play videogames, simracing and go to the beach 🏖️ with my family.
 
 ### 🛠️ Languages and Tools :
 <div>
