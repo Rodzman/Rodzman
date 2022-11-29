@@ -1,6 +1,5 @@
 <div id="header" align="center">
   <img src="https://github.com/Rodzman/Rodzman/blob/main/rodz-f.png" width="100" />
-  <img src="https://komarev.com/ghpvc/?username=rodzman&style=flat-square&color=blue" alt="Profile views counter" />
 </div>
 
 ### 👨‍💻 About Me :
